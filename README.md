@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on [Lotte e-commerce].
 - 🌱 I’m currently learning more about a lot of things.
 - 💬 Ask me about Spring or any tech related stuff.
-- 📫 How to reach me: [Instagram - @l2jong](https://instagram.com/l2jong)
+- 📫 How to reach me: [Instagram - @mimi210505](https://instagram.com/mimi210505)
 - ⚡ Fun fact: I spend almost 12 hours coding everyday.
 
 [![GitHub: DKel](https://img.shields.io/github/followers/lemondkel?label=follow&style=social)](https://github.com/lemondkel)
