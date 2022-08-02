@@ -5,7 +5,7 @@
 <a href="https://github.com/lemondkel">
   <img align="left" alt="DKel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/l2jong/">
+<a href="https://instagram.com/mimi210505/">
   <img align="left" alt="DKel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/gkwkdlawoh/">
