@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Lotte e-commerce].
+- 🔭 I’m currently working on S-Card.
 - 🌱 I’m currently learning more about a lot of things.
 - 💬 Ask me about Spring or any tech related stuff.
 - 📫 How to reach me: [Instagram - @mimi210505](https://instagram.com/mimi210505)
